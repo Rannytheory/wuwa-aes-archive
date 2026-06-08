@@ -688,13 +688,13 @@ ___
 | pakchunk-109 | 0x31FE101AAB1D2A1EFA7908F2E61FDE1E21E86ABA828B602CF2F3E2E4F551F4D2 | iOS & iPad OS | OS |
 | pakchunk-110 | TBD | iOS & iPad OS | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
-| pakchunk-109 | TBD | Windows | CN |
+| pakchunk-109 | 0xD412015E88260DA8BB93F35ED2C7E602C20941D471541A6E3F0292DB494DC6FE | Windows | CN |
 | pakchunk-110 | TBD | Windows | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
-| pakchunk-109 | TBD | Android | CN |
+| pakchunk-109 | 0x90D2899A04C22BE7CD231846E46A91A222F5A73BC60225C6F40F5CA20914B0E3 | Android | CN |
 | pakchunk-110 | TBD | Android | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
-| pakchunk-109 | TBD | iOS & iPad OS | CN |
+| pakchunk-109 | 0x32BAD469722D9FC6A82AA6667DE976C24BE7E30A6445BF63BCE68A51722C97EC | iOS & iPad OS | CN |
 | pakchunk-110 | TBD | iOS & iPad OS | CN |
 
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
