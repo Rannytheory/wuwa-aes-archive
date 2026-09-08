@@ -719,6 +719,7 @@ ___
 ## 3.6 (LAMPLIGHT IN MIRAGE, SWORD'S RESOLVE IN HEART)
 
 *Note: Refer to previous versions for pak101-111 keys*
+
 *Note2: For this version, pak101-111 keys for OS Windows is same as that for CN Windows*
 
 | PAK(s) | AES Key                                                                | Operating System | Server |
