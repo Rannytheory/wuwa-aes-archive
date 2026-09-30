@@ -720,7 +720,7 @@ ___
 
 *Note: Refer to previous versions for pak101-111 keys*
 
-*Note2: For this version, pak101-111 keys for OS Windows is same as that for CN Windows*
+*Note2: In this version, pak101-111 keys for OS Windows is same as that for CN Windows*
 
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
@@ -736,6 +736,27 @@ ___
 | pakchunk-112 | 0xFEB3B188B05372AB03E054C7AD393489F3224C620EC7C45AD6EC62D0DB35B106 | Android | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
 | pakchunk-112 | 0x499E0E18733F2AB2F463A8D76FF77F1DE42A2149E67A5F4CC49289E4205EEE51 | iOS & iPad OS | CN |
+
+## 3.7 (PRISM'S ILLUSION, HEART'S ILLUMINATION)
+
+*Note: Refer to previous versions for pak101-111 keys*
+
+*Note2: In this version, pak101-111 keys for OS Windows is same as that for CN Windows*
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-113 | 0xFAE1CC0DF7BB8CED0507C4F19D4BB29FE0CE967310C41A93BC6FFFB750A6FE36 | Windows &  | OS |    
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-113 | 0xFAE1CC0DF7BB8CED0507C4F19D4BB29FE0CE967310C41A93BC6FFFB750A6FE36 | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-113 | 0xFAE1CC0DF7BB8CED0507C4F19D4BB29FE0CE967310C41A93BC6FFFB750A6FE36 | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-113 | 0x842C1C857EF282FA5AA3E757C889211B0BD4030586A4F9C30653CD0925283FBB | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-113 | 0x842C1C857EF282FA5AA3E757C889211B0BD4030586A4F9C30653CD0925283FBB | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-113 | 0x842C1C857EF282FA5AA3E757C889211B0BD4030586A4F9C30653CD0925283FBB | iOS & iPad OS | CN |
 
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
 
